@@ -6,3 +6,4 @@ WiShare is an offline file-sharing application designed for Windows, Mac, and Li
 - [application](https://github.com/opeolluwa/wishare-app)
 
 - [website](https://https://github.com/opeolluwa/wishare-website)
+- [release](https://github.com/opeolluwa/wishare-release)https://github.com/opeolluwa/wishare-release
